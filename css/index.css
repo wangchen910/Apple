@@ -2,7 +2,7 @@
 * @Author: 王晨
 * @Date:   2017-09-11 09:45:21
 * @Last Modified by:   王晨
-* @Last Modified time: 2017-09-12 11:20:37
+* @Last Modified time: 2017-09-12 14:05:23
 */
 @font-face {
   font-family: 'iconfont';  /* project id 401031 */
@@ -402,11 +402,12 @@ footer{
 		font-size: 20px;
 	}
 	.huodong-mokuai{
-	background-image: url('../img/2.jpg');
+	background-image: url('../img/25.jpg');
 	width: 100%;
 	border-right: 0;
 	background-size: cover;
-	background-position:bottom center;
+    background-repeat: no-repeat;
+    background-position: center;
 	}
 	.jiewei-xinxi{
 		display: none;
